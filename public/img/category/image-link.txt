@@ -1,0 +1,22 @@
+https://i.ibb.co/tpyvjQs/bedroom.png
+https://i.ibb.co/yhNkcQW/livingroom.png
+https://i.ibb.co/2dcm8PY/dining.png
+https://i.ibb.co/gv4JDpd/kitchen.png
+https://i.ibb.co/VBw5V0f/office.png
+https://i.ibb.co/zbvwYhN/door.png
+https://i.ibb.co/m9n40rG/institute.png
+https://i.ibb.co/DV1986W/handcraft.png
+
+
+
+
+    images: {
+      remotePatterns: [
+        {
+          protocol: "http",
+          hostname: "localhost",
+          port: "1337",
+          pathname: "/**",
+        },
+      ],
+    },

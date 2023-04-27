@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/WGFnvLB/bedroom.jpg",
+    "name": "Bedroom Collection",
+    "details": "Discover your dream bedroom with our furniture collection"
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/1Z628yn/livingroom.jpg",
+    "name": "Living-room Collection",
+    "details": "Discover your dream bedroom with our furniture collection"
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/qyyRnXp/dining.jpg",
+    "name": "Dining Collection",
+    "details": "Discover your dream bedroom with our furniture collection"
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/b7vdsq3/kitchen.jpg",
+    "name": "Kitchen Collection",
+    "details": "Discover your dream bedroom with our furniture collection"
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/NTBmPyH/office.jpg",
+    "name": "Office Collection",
+    "details": "Discover your dream bedroom with our furniture collection"
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/G7cdGPP/door.jpg",
+    "name": "Door Collection",
+    "details": "Discover your dream bedroom with our furniture collection"
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/h1p3hCQ/institute.jpg",
+    "name": "Institute Collection",
+    "details": "Discover your dream bedroom with our furniture collection"
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/nPSjTLy/handcraft.jpg",
+    "name": "Hand-Craft Collection",
+    "details": "Discover your dream bedroom with our furniture collection"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/Gn4snmN/office2.jpg",
+    "name": "Education Office",
+    "description": "Make idea and get institute office interior by Imam Furniture Mart"
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/wQC5PPC/office3.jpg",
+    "name": "Business Office",
+    "description": "Make idea and get institute office interior by Imam Furniture Mart"
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/n7yCn59/office1.jpg",
+    "name": "Corporet Office",
+    "description": "Make idea and get institute office interior by Imam Furniture Mart"
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/rsqFhjG/office4.jpg",
+    "name": "Law firm office",
+    "description": "Make idea and get institute office interior by Imam Furniture Mart"
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/bWD6mRD/office5.jpg",
+    "name": "Medical office",
+    "description": "Make idea and get institute office interior by Imam Furniture Mart"
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/n7yCn59/office1.jpg",
+    "name": "Startup office",
+    "description": "Make idea and get institute office interior by Imam Furniture Mart"
+  }
+]
